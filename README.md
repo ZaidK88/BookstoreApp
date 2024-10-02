@@ -1,2 +1,0 @@
-# BookstoreApp
-ASPAssignment_02
